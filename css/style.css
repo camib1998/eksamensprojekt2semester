@@ -487,6 +487,25 @@ padding-top:5%;
 
 @media only screen and (min-width: 1000px) {
     
+    #trustpilot {display: flex;} 
+    
+    #trustpilot_box {width:50%;
+    text-align: center;
+    background-color: aquamarine;}
+    
+    
+    #trustpilot_billede {
+        width:30%;
+    }
+    
+    #anbefaling {background-color: aqua;
+    width:50%;}
+    
+    #anbefaling h4 {font-size:1em;
+    padding:2em;
+    line-height: 1.8em;
+      font: 12px/18px'Raleway', cursive;}
+    
     #knap {padding-left:43%;
 padding-top:5%;
     padding-bottom: 5%;
