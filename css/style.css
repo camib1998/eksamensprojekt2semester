@@ -439,7 +439,7 @@ p {
 }
 
 .text {
-  opacity:2;
+/*  opacity:2;*/
   color: white;
   font-size: 3em;
   padding: 16px 2px;
@@ -449,6 +449,7 @@ p {
 font-size: 0.6em;
 }
 
+/*
 .text t {
 font-size: 0.6em;
 margin-left:3%;
@@ -460,6 +461,7 @@ margin-left:3%;
 
   
 }
+*/
 
 #InfographicFirstPage{
     width: 80%;
@@ -497,6 +499,7 @@ a {text-decoration: none;}
 #article_ydelser {background-color:#E5E5E5;
 }
 
+/*
 .middle2 {
   transition: .5s ease;
   opacity: 0;
@@ -514,10 +517,13 @@ a {text-decoration: none;}
   font-size: 16px;
   padding: 16px 32px;
 }
+*/
 
+/*
 .container:hover .middle2 {
   opacity: 1;
 }
+*/
 
 #priser_ydelser img {
     width: 90%;
@@ -857,7 +863,7 @@ margin-left: auto;
         line-height: 1.6em;}
     
      #du_skal h3 {text-align: center;
-         font: 'oswald';  
+/*         font: 'oswald';  */
     color:white;
     font-size: 1.5em;
  padding:1.5%;
